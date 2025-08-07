@@ -1,7 +1,7 @@
 {
   "name": "mmsi-country-lookup",
-  "version": "1.0.0",
-  "description": "A library to extract country information from MMSI (Maritime Mobile Service Identity) numbers",
+  "version": "1.0.1",
+  "description": "A library to extract country information from MMSI (Maritime Mobile Service Identity) numbers with full ITU-R M.585-9 compliance",
   "main": "index.js",
   "repository": {
     "type": "git",

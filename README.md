@@ -4,7 +4,7 @@ A lightweight library to extract country and type information from Maritime Mobi
 
 MMSI numbers are 9-digit identifiers used by maritime mobile stations (ships, coast stations, SAR aircraft, AIS aids, etc.) in the Automatic Identification System (AIS). The first part of the MMSI, known as the Maritime Identification Digits (MID), indicates the country or geographical area of registration.
 
-📘 **Reference**: [ITU-R Recommendation M.585-9](https://www.itu.int/dms_pubrec/itu-r/rec/m/R-REC-M.585-9-202303-I!!PDF-E.pdf)
+📘 **Reference**: [ITU-R Recommendation M.585-9](https://www.itu.int/rec/R-REC-M.585-9-202205-I/en)
 
 ## MMSI Formats by Type (ITU-R M.585-9)
 
@@ -103,4 +103,4 @@ This library uses the official MID-country mapping based on ITU-R M.585-9 (March
 
 MIT
 
-Based on [ITU-R M.585-9 Recommendation](https://www.itu.int/dms_pubrec/itu-r/rec/m/R-REC-M.585-9-202303-I!!PDF-E.pdf) and publicly available MID data from the ITU.
+Based on [ITU-R M.585-9 Recommendation](https://www.itu.int/rec/R-REC-M.585-9-202205-I/en) and publicly available MID data from the ITU.
