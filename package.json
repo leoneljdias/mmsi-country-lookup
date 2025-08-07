@@ -1,0 +1,29 @@
+{
+  "name": "mmsi-country-lookup",
+  "version": "1.0.0",
+  "description": "A library to extract country information from MMSI (Maritime Mobile Service Identity) numbers",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leoneljdias/mmsi-country-lookup.git"
+  },
+  "keywords": [
+    "mmsi",
+    "maritime",
+    "ais",
+    "ship",
+    "country",
+    "mid",
+    "maritime-identification-digits"
+  ],
+  "author": "Leonel Dias",
+  "license": "MIT License",
+  "dependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/leoneljdias/mmsi-country-lookup/issues"
+  },
+  "homepage": "https://github.com/leoneljdias/mmsi-country-lookup#readme"
+}
